@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+ipython
+jsonschema
+scikit-learn
+joblib
+scipy
+ipykernel
+nbconvert
+nbformat
+jupyter
+xgboost
+tensorflow

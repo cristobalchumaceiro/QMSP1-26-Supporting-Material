@@ -12,6 +12,10 @@
 
 This repository contains the supplementary material and code for the project. Below is an overview of the directory structure and environment requirements necessary to review the work.
 
+### Important: Downloading the Data (Git LFS)
+The datasets in this repository are hosted using Git Large File Storage (LFS). 
+To download the data, you must install Git LFS before cloning this repository. If you download the repository as a ZIP file, the datasets will not be included.
+
 ## `/data/`
 This directory contains all the datasets used and generated throughout the project, organised into a sequential pipeline:
 - `01_raw/`: Original, immutable raw data files.
